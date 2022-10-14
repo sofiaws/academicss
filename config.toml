@@ -104,7 +104,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "https://babyandchild.nl/medewerkers/sofia-weidle-scatolin/"
+      url       = "https://www.psychologie.uzh.ch/de/bereiche/dev/devkj/team/scatolin.html"
 
 [taxonomies]
   category = "categories"
