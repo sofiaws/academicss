@@ -1,4 +1,4 @@
-baseURL = "https://sofiascatolin.netfliy.app/"
+baseURL = "https://sofiascatolin.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Academic Website"
