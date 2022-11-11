@@ -10,17 +10,17 @@ tags:
 categories:
   - CV
 layout: single
-links:
-- icon: download
-  icon_pack: fa
-  name: download cv in pdf
-  url: https://bakeoff.netlify.com/
+# links:
+# - icon: download
+#   icon_pack: fa
+#   name: download cv in pdf
+#   url: https://bakeoff.netlify.com/
 ---
 
 ### Education.
 
 - Ph.D. Psychology, University of Zurich (Switzerland), 2026 *expected*
-- M.Sc. Behavioural Science, Radboud Univerity (The Netherlands), 2022
+- M.Sc. Behavioural Science cum laude, Radboud Univerity (Netherlands), 2022
 - B.Sc. Psychology, Pontifical Catholic University of Paraná (Brazil), 2020
 
 
@@ -28,7 +28,7 @@ links:
 
 __PhD Candidate__ - *Sep. 2022 - ongoing*
 - Jacobs Center for Productive Youth Development
-- Research project investigating the internegerational transfer effects on socioemotional skills, using fMRI, behavioural questionnaires, and hear-rate variability.
+- Research project investigating the internegerational transfer effects on socioemotional skills, using fMRI, behavioural questionnaires, and physiological measures.
 - Supervisor: Prof. Dr. Nora Raschle
 
 
@@ -83,6 +83,7 @@ Methods:
 - Brazilian Portuguese - native
 - English - fluent (TOEFL iBT 115)
 - Spanish - intermediate
+- German - beginner
 
 
 ### (Working) Publications
