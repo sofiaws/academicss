@@ -116,7 +116,7 @@ enableEmoji = true
   [[menu.header]]
     name = "About"
     title = "About"
-    url = "https://sofiascatolin.netlify.app/"
+    url = "https://sofiascatolin.com/"
     weight = 1
   [[menu.header]]
     name = "CV"
