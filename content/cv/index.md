@@ -96,6 +96,7 @@ Carvalho, D. R., Cubas, J. M., Hack, N. S., Silva, V. A., & Scatolin, S. W. (201
 Cubas, J. M., Scatolin, S. W., & Carvalho, D. R. (2016). Associated factors with indicators of mental disorders in children and adolescents: An integrative review. Publicatio UEPG, 22, 73-85. https://doi.org/10.5212/publicatio%20uepg.v22i1.9053
 
 ### Presentations
+
 *Poster* - Scatolin, S. W. (2022, September). Associations between maternal caregiving and infant cognitive factors. DCN Flux, Paris, France.
 
 *Poster* - Scatolin, S. W. (2022, May). Associations between maternal caregiving and infant cognitive factors. Dutch Society for Developmental Psychology (VNOP), Utrecht, Netherlands.

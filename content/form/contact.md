@@ -1,7 +1,7 @@
 ---
 title: Contact
 name: Contact Us Form
-description: "Message me for any questions, collaborations or feedback."
+description: "Message me for any questions, feedback or collaborations."
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
