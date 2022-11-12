@@ -10,11 +10,11 @@ tags:
 categories:
   - CV
 layout: single
-# links:
-# - icon: download
-#   icon_pack: fa
-#   name: download cv in pdf
-#   url: https://bakeoff.netlify.com/
+links:
+- icon: download
+  icon_pack: fa
+  name: download cv in pdf
+  url: https://drive.google.com/file/d/1Lrzd_f872hq_mqZBy35zmEPQi58DItN-/view?usp=share_link
 ---
 
 ### Education.
@@ -71,6 +71,7 @@ Analysis and programming:
 
 Methods:
 - (f)MRI
+- Heart-rate variability
 - Eye-tracking
 - Computational cognitive modelling
 - Behavioural observation
